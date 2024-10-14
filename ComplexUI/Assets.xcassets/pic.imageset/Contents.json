@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "logo_dtc_original.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
